@@ -1,6 +1,6 @@
 # Data Science Capstone Project
-## Coursera - Johns Hopkins University
-### Phillip Chaffee
+### Coursera - Johns Hopkins University
+#### Phillip Chaffee
 
 This repository exists to store all the data I will need and catalog my final project for the Coursera Data Science Specialization taught by Johns Hopkins University.
 
